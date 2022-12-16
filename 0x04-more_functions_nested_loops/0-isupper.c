@@ -5,7 +5,7 @@
 * @c: int type number
 * Return: 1 if uppercase, else 0
 */
-int _isupper(int c)
+int _isupper(char c)
 {
 	if ((c >= 'A') && (c <= 'Z'))
 	{
