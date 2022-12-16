@@ -1,9 +1,9 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
 
-int _putchar(int c);
+int _putchar(char c);
 int _isupper(char c);
 int _isdigit(int c);
 int mul(int a, int b);
